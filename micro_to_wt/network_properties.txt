@@ -1,0 +1,13 @@
+### Network properties ###
+Number_of_nodes	1205
+Number_of_edges	9888
+Mean_degree	16.41161825726141
+Average_clustering_coefficient	0.33558
+Giant_component	1.0
+Number_of_connected_components	1
+Freeman_centralization	0.33327
+Mean_closeness_centrality	0.29493
+Modularity	0.54442
+Median_comp_size_over_#_nodes	1.0
+Degree_assortativity	-0.07594
+Network_fragmentation	 0.0

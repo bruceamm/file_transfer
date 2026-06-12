@@ -1,0 +1,12 @@
+,comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw0.csv,comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw1.csv,comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw10.csv,comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw2.csv,comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw3.csv,comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw4.csv,comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw5.csv,comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw6.csv,comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw7.csv,comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw8.csv,comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw9.csv
+comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw0.csv,131541.0,31692.0,32934.0,30122.0,33760.0,31229.0,32787.0,33820.0,30656.0,34240.0,29659.0
+comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw1.csv,31692.0,124877.0,32428.0,30802.0,32016.0,29645.0,31762.0,30350.0,32280.0,33723.0,32547.0
+comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw10.csv,32934.0,32428.0,128512.0,31184.0,31133.0,29511.0,33959.0,32150.0,29980.0,34847.0,30946.0
+comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw2.csv,30122.0,30802.0,31184.0,121189.0,30258.0,29533.0,30294.0,29842.0,29661.0,30592.0,29430.0
+comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw3.csv,33760.0,32016.0,31133.0,30258.0,129905.0,29830.0,32207.0,30629.0,29844.0,33513.0,31694.0
+comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw4.csv,31229.0,29645.0,29511.0,29533.0,29830.0,125515.0,31518.0,29959.0,31376.0,31362.0,31377.0
+comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw5.csv,32787.0,31762.0,33959.0,30294.0,32207.0,31518.0,132929.0,32107.0,30387.0,35453.0,30062.0
+comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw6.csv,33820.0,30350.0,32150.0,29842.0,30629.0,29959.0,32107.0,135719.0,30012.0,33686.0,29866.0
+comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw7.csv,30656.0,32280.0,29980.0,29661.0,29844.0,31376.0,30387.0,30012.0,126963.0,31107.0,31979.0
+comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw8.csv,34240.0,33723.0,34847.0,30592.0,33513.0,31362.0,35453.0,33686.0,31107.0,134529.0,33198.0
+comb_TLS_c_ipval_0.5_PUC_w_meta_FDR_0.15_all_nw9.csv,29659.0,32547.0,30946.0,29430.0,31694.0,31377.0,30062.0,29866.0,31979.0,33198.0,128741.0
